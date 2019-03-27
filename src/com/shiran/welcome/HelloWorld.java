@@ -8,4 +8,8 @@ public class HelloWorld {
         System.out.println("Hello World");
         System.out.println("Hello World");
     }
+
+    private void showMe() {
+        System.out.println("show me");
+    }
 }
